@@ -35,4 +35,14 @@
 git clone [https://github.com/사용자계정/저장소이름.git](https://github.com/사용자계정/저장소이름.git)
 cd 저장소이름
 pip install -r requirements.txt
+```
+
+### 2. kaggle id 및 kaggle API key 설정
+```bash
+kaggle_credentials = {
+    "username": "kaggle 닉네임",
+    "key": "kaggle API 키"
+}
+```
+* 위 코드 내 닉네임 및 API 키 변경 필요
 
