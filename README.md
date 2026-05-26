@@ -13,7 +13,7 @@
 ##  기술 스택
 * **언어:** Python 3
 * **주요 라이브러리:** PyTorch, Torchvision, Scikit-learn, OpenCV, Scikit-image
-* **환경:** Google Colab (T4 GPU 권장)
+* **환경:** Google Colab (T4 GPU)
 
 ##  프로젝트 구조 및 파이프라인
 1. **데이터 수집:** Kaggle API 및 Hugging Face Hub를 통한 자동 다운로드
