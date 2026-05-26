@@ -36,4 +36,3 @@ git clone [https://github.com/사용자계정/저장소이름.git](https://githu
 cd 저장소이름
 pip install -r requirements.txt
 
-### 2. kaggle id 및 kaggle API key 설정
