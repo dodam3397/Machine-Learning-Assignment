@@ -1,3 +1,4 @@
+# 생성형 AI 통하여 작성한 코드입니다.
 scikit-image>=0.22.0
 scikit-learn>=1.2.0
 matplotlib>=3.7.0
